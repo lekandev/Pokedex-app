@@ -6,7 +6,7 @@ const fetchPokemon = () => {
         })
         .then( data => {
             console.log(data);
-            for( let i = 1; i  150)
+            for( let i = 1; i ≤ 150)
             const pokemon = {
                 name = data.name,
                 id = data.id,
