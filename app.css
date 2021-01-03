@@ -68,7 +68,7 @@ h1 {
     font-size: 54px;
 }
 @media (min-width: 320px){ 
-    ​#​pokedex​ {
+    ​li {
         padding: 40px;
     }
 }
