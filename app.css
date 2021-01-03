@@ -69,6 +69,6 @@ h1 {
 }
 @media only screen and (min-device-width: 320px) { 
     ​#​pokedex​ {
-        grid-template-columns: ​200px,​ ​1​fr​;
+        padding-right: 40px;
     }
 }
